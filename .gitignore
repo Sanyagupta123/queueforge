@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+backend/queueforge.sqlite*
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+.env
